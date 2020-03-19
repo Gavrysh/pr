@@ -1,7 +1,4 @@
 language: ruby
-rvm:
- - 2.2
- - jruby
  
- notifications:
+notifications:
   slack: unitsystems:hlR2vqPa1FfAKSUyFEw5KEs3
