@@ -1,4 +1,4 @@
-language: ruby
+language: minimal
  
 notifications:
   slack: unitsystems:hlR2vqPa1FfAKSUyFEw5KEs3
