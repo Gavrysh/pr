@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/Memo1og/pr.svg?branch=master)](https://travis-ci.com/Memo1og/pr)
